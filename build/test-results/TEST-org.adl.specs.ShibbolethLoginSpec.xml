@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="Yevgeniy-Dvorkins-MacBook-Pro.local" name="org.adl.specs.ShibbolethLoginSpec" tests="1" time="0.879" timestamp="2012-02-12T15:46:56">
+  <properties />
+  <testcase classname="org.adl.specs.ShibbolethLoginSpec" name="Simple login of shibboleth user into the system" time="0.278" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
