@@ -4,6 +4,7 @@ import org.openqa.selenium.firefox.FirefoxDriver
 import org.adl.pages.ShibLoginPage
 import org.openqa.selenium.WebElement
 import org.openqa.selenium.By
+
 /**
  * Created by IntelliJ IDEA.
  * User: edvorkin
